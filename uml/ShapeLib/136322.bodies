@@ -1,0 +1,5 @@
+class Cone
+!!!137218.cpp!!!	compute() : ShapeResultData<T>
+return ShapeResultData<T>();
+!!!137346.cpp!!!	print() : string
+return "";

@@ -1,0 +1,5 @@
+class Cylinder
+!!!136962.cpp!!!	compute() : ShapeResultData<T>
+return ShapeResultData<T>();
+!!!137090.cpp!!!	print() : string
+return "";

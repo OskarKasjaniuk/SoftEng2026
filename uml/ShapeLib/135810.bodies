@@ -1,0 +1,5 @@
+class Rectangle
+!!!135938.cpp!!!	compute() : ShapeResultData<T>
+return ShapeResultData<T>();
+!!!136066.cpp!!!	print() : string
+return "";

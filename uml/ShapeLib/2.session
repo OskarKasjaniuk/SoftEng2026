@@ -1,0 +1,15 @@
+window_sizes 1920 991 450 1464 937 0
+
+diagrams
+  active  classdiagram_ref 128002 // shapes_dia
+    1464 937 114 A4 0 0
+end
+show_stereotypes
+selected operation_ref 145410 // print
+open
+  class_ref 135682 // Circle
+  class_ref 143234 // Pyramid
+  class_ref 143490 // Ellipse
+  class_ref 143618 // Hexagon
+end
+end

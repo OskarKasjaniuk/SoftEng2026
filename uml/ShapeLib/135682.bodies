@@ -1,0 +1,5 @@
+class Circle
+!!!135682.cpp!!!	compute() : ShapeResultData<T>
+return ShapeResultData<T>();
+!!!135810.cpp!!!	print() : string
+return "";

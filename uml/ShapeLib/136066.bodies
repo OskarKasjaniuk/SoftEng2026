@@ -1,0 +1,5 @@
+class Sphere
+!!!136706.cpp!!!	compute() : ShapeResultData<T>
+return ShapeResultData<T>();
+!!!136834.cpp!!!	print() : string
+return "";

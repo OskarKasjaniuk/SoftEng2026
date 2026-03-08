@@ -1,0 +1,5 @@
+class Triangle
+!!!136194.cpp!!!	compute() : ShapeResultData<T>
+return ShapeResultData<T>();
+!!!136322.cpp!!!	print() : string
+return "";

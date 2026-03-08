@@ -1,0 +1,5 @@
+class ShapeResultData
+!!!135170.cpp!!!	get(in ind : ShapeResultIndex) : T
+return 0;
+!!!135298.cpp!!!	set(in ind : ShapeResultIndex, in val : T) : bool
+return true;

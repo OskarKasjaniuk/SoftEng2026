@@ -1,0 +1,5 @@
+class Rhombus
+!!!144770.cpp!!!	compute() : ShapeResultData<T>
+return ShapeResultData<T>();
+!!!144898.cpp!!!	print() : string
+return "";

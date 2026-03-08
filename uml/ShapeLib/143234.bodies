@@ -1,0 +1,5 @@
+class Pyramid
+!!!144514.cpp!!!	compute() : ShapeResultData<T>
+return ShapeResultData<T>();
+!!!144642.cpp!!!	print() : string
+return "";

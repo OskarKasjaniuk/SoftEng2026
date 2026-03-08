@@ -1,0 +1,3 @@
+class ShapeFactory
+!!!135042.cpp!!!	create(in param : ShapeParam<T>) : IShape<T>*
+return nullptr;

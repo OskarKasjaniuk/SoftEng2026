@@ -1,0 +1,5 @@
+class Torus
+!!!137730.cpp!!!	compute() : ShapeResultData<T>
+return ShapeResultData<T>();
+!!!137858.cpp!!!	print() : string
+return "";

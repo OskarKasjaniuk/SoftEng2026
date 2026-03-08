@@ -1,0 +1,5 @@
+class ShapeParam
+!!!134786.cpp!!!	set(in ind : ShapeParamIndex, in val : T) : bool
+return true;
+!!!134914.cpp!!!	validate() : bool
+return true;

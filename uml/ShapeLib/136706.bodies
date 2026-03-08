@@ -1,0 +1,5 @@
+class Trapeze
+!!!136450.cpp!!!	compute() : ShapeResultData<T>
+return ShapeResultData<T>();
+!!!136578.cpp!!!	print() : string
+return "";

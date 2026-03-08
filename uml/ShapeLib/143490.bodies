@@ -1,0 +1,5 @@
+class Ellipse
+!!!145026.cpp!!!	compute() : ShapeResultData<T>
+return ShapeResultData<T>();
+!!!145154.cpp!!!	print() : string
+return "";

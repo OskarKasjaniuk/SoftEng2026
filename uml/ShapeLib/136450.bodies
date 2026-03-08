@@ -1,0 +1,5 @@
+class Ellipsoid
+!!!137474.cpp!!!	compute() : ShapeResultData<T>
+return ShapeResultData<T>();
+!!!137602.cpp!!!	print() : string
+return "";

@@ -1,0 +1,20 @@
+#ifndef _SHAPETYPE_H
+#define _SHAPETYPE_H
+
+
+enum ShapeType {
+  PT_CIRCLE,
+  PT_RECT,
+  PT_TRIANGLE,
+  PT_SPHERE,
+  PT_CYLINDER,
+  PT_CONE,
+  PT_ELLIPSOID,
+  PT_TORUS,
+  PT_TRAPEZE,
+  PT_RHOMBUS,
+  PT_ELLIPSE,
+  PT_HEXAGON,
+  PT_PYTAMID
+};
+#endif

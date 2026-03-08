@@ -1,0 +1,5 @@
+class Hexagon
+!!!145282.cpp!!!	compute() : ShapeResultData<T>
+return ShapeResultData<T>();
+!!!145410.cpp!!!	print() : string
+return "";
