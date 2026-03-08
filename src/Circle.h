@@ -8,7 +8,7 @@
 #include <sstream>
 
 template<class T>
-class Circle : public Shape2D<T> {
+class Circle: public Shape2D<T> {
 public:
     inline ShapeResult<T> compute();
     inline std::string print();
@@ -21,7 +21,7 @@ public:
         const double PI = 3.14159265358979323846;
 
         // Obliczenia na typie double dla precyzji
-        double area = PI * static_cast<double>(radius) * static_cast<double>(radius);
+        double area = PI * static_cast<double>(radius)* static_cast<double>(radius);
         double perimeter = 2.0 * PI * static_cast<double>(radius);
 
         // Pakowanie wynikow do obiektu ShapeResultData
