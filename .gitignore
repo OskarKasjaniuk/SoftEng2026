@@ -1,7 +1,5 @@
-build/
-.vscode/
-*.exe
-*.o
-*.obj
-*.sln
-*.vcxproj
+# Visual Studio folder
+.vs/
+
+# output
+out/
