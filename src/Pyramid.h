@@ -65,8 +65,8 @@ inline string Pyramid<T>::print() {
     return out.str();
 }
 
-template<class T>
-inline Pyramid<T>::Pyramid(const ShapeParam<T>& param) : Shape3D<T>(param) {
-}
+template <class T>
+inline Pyramid<T>::Pyramid(const ShapeParam<T>& param): Shape3D<T>(param)
+{}
 
 #endif
