@@ -10,16 +10,16 @@
 
 using namespace std;
 
-template<class T>
-class Pyramid : public Shape3D<T> {
+template <class T> class Pyramid : public Shape3D<T> 
+{
 public:
     inline ShapeResult<T> compute();
     inline string print();
     inline Pyramid(const ShapeParam<T>& param);
 };
 
-template<class T>
-inline ShapeResult<T> Pyramid<T>::compute() {
+template <class T> inline ShapeResult<T> Pyramid<T>::compute() 
+{
 
     T width = this->m_param.get_attrib(PARAM_WIDTH);
     T height = this->m_param.get_attrib(PARAM_HEIGHT);
@@ -43,8 +43,8 @@ inline ShapeResult<T> Pyramid<T>::compute() {
     return result;
 }
 
-template<class T>
-inline string Pyramid<T>::print() {
+template <class T> inline string Pyramid<T>::print()
+{
 
     T width = this->m_param.get_attrib(PARAM_WIDTH);
     T height = this->m_param.get_attrib(PARAM_HEIGHT);
