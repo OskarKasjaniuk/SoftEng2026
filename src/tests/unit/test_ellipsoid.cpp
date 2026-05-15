@@ -34,7 +34,7 @@ TEST(EllipsoidPR, NegativeValueValidation)
 {
     ShapeParam<double> param;
     param.set_attrib(static_cast<ShapeParamIndex>(0), -1.0);
-    EXPECT_THROW(
-        { auto e = std::make_unique<Ellipsoid<double>>(param); },
-        std::invalid_argument);
+
+    EXPECT_THROW({ auto e = std::make_unique<Ellipsoid<double>>(param); },
+                 std::invalid_argument);
 }
